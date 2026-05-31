@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdave",
+        "uuid": 13611653,
+        "checksum": "t89pra"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
